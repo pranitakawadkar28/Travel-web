@@ -28,6 +28,7 @@ html,body {
 
 .left > .upper {
     position: absolute;
+    font-family: "voyage";
     top: 15%;
     left: 5%;
     width: 15%;
@@ -97,6 +98,7 @@ html,body {
 
 .a > .al > h2 {
     font-size: 30px;
+    font-family: "voyage";
 }
 
 .a > .ar > h3 {
